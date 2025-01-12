@@ -1,0 +1,1 @@
+This error occurs when you try to use a feature or import a module that is not supported by the Expo Go app. Expo Go has limitations compared to a standalone app built with Expo.
